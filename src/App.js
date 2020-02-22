@@ -11,6 +11,7 @@ function App() {
   return (
     <div className="App">
       <h1>HElloooooooooooooooo les amisssssssss</h1>
+      <p>Ceci est un site d'achat de circuit de voyage</p>
       <TabsDefault />
 
       <FooterPage />
