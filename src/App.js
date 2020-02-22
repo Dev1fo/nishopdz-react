@@ -12,6 +12,7 @@ function App() {
     <div className="App">
       <h1>HElloooooooooooooooo les amisssssssss</h1>
       <p>Ceci est un site d'achat de circuit de voyage</p>
+      <h3>OFFRE EXCEPTIONNELLE A SAISIR </h3>
       <TabsDefault />
 
       <FooterPage />
