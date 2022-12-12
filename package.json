@@ -6,7 +6,7 @@
     "@fortawesome/fontawesome-free": "^5.11.2",
     "bootstrap": "^3.4.1",
     "bootstrap-css-only": "^4.3.1",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "express-favicon": "^2.0.1",
     "jquery": "^3.4.1",
     "mdbreact": "^4.23.0",
